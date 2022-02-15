@@ -2,6 +2,6 @@
 Pequena aplicação para fazer um controle de tarefas diárias a serem cumpridas, que quando finalizada pode ser feito o check da mesma.
 
 <div align="center">
-  <a href="https://prnt.sc/26wj5z4">
+  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
